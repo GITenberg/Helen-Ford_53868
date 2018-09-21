@@ -1,0 +1,40 @@
+_repo: Helen-Ford_53868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wills -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Forgery -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- GITenberg
+title: Helen Ford
+url: http://www.gutenberg.org/ebooks/53868
